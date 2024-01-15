@@ -31,7 +31,7 @@
   border-radius: 0.8rem;
   flex-direction: column;
   padding-bottom: 10px;
-  box-shadow:  60px  40px 64px #73ef7b;
+  box-shadow:  60px  40px 64px #b0ecb4;
     border: 1px;      
   vertical-align: 36px;
   padding-bottom: 1rem;
@@ -58,7 +58,7 @@
     text-align: right;
     background-color: rgb(214, 213, 213);
     border: none;
-    font-size: larger;
+    font-size: x-large;
     font-weight: bold;
     box-shadow: 0 0  30px rgba(0, 0, 0, 0.3); 
     
@@ -77,6 +77,6 @@
     background-color: white;
     font-weight: bolder;
     align-items: center;
-    font-size: larger;
-    box-shadow: 15px white;
+    font-size: x-large;
+    box-shadow: 15px white solid;
 }
